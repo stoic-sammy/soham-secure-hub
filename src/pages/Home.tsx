@@ -80,7 +80,7 @@ const Home = () => {
               <div className="relative mx-auto w-80 h-80 lg:w-96 lg:h-96">
                 <div className="absolute inset-0 bg-gradient-accent rounded-full blur-3xl opacity-20"></div>
                 <img
-                  src={sohamHeadshot}
+                  src={Soham_Dhande}
                   alt="Soham Dhande - IT Auditor & Cloud Security Specialist"
                   className="relative z-10 w-full h-full object-cover rounded-full shadow-hero border-4 border-card"
                 />
