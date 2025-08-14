@@ -31,7 +31,7 @@ const Home = () => {
   const stats = [
     { number: "2+", label: "Years Experience" },
     { number: "8+", label: "Certifications" },
-    { number: "3", label: "Cloud Platforms" },
+    { number: "3+", label: "Cloud Platforms" },
     { number: "100%", label: "Client Satisfaction" },
   ];
 
