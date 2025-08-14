@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Link } from "react-router-dom";
 import { Shield, CheckSquare, Users, FileCheck, ArrowRight, Award, Globe } from "lucide-react";
-import sohamHeadshot from "@/assets/soham-headshot.jpg";
+import sohamHeadshot from "@/assets/Soham_Dhande.JPG";
 
 const Home = () => {
   const services = [
