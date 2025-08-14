@@ -309,7 +309,7 @@ const Contact = () => {
                   </a>
                 </Button>
                 <Button size="lg" className="bg-secondary hover:bg-secondary/90" asChild>
-                  <a href="tel:+91XXXXXXXXX">
+                  <a href="tel:+917559444529">
                     <Phone className="mr-2 h-5 w-5" />
                     Schedule a Call
                   </a>
