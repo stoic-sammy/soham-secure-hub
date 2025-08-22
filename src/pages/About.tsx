@@ -18,7 +18,7 @@ const About = () => {
     {
       title: "Consultant (Freelancing)",
       company: "Independent",
-      period: "2023",
+      period: "2023 - Present",
       description: "Providing specialized IT audit and cloud security consulting services to various organizations.",
       current: true,
     },
@@ -52,10 +52,10 @@ const About = () => {
     "ISO Audits",
     "Data Security",
     "TPRM",
+    "Multi-Cloud Security",
     "Azure Security Centre",
     "AWS Security Tools",
     "GCP Security",
-    "NIST Framework",
     "CIS Benchmarks",
     "Compliance Management",
   ];
@@ -65,6 +65,11 @@ const About = () => {
       name: "ISO 27001:2022 Lead Auditor",
       issuer: "International",
       icon: <Shield className="h-5 w-5" />,
+    },
+    {
+      name: "AWS Certified Solutions Architect - Associate",
+      issuer: "AWS",
+      icon: <Cloud className="h-5 w-5" />,
     },
     {
       name: "eLearnSecurity Junior Penetration Tester",
@@ -90,11 +95,6 @@ const About = () => {
       name: "Palo Alto Networks Prisma Cloud Professional",
       issuer: "Palo Alto Networks",
       icon: <Shield className="h-5 w-5" />,
-    },
-    {
-      name: "AWS Certified Solutions Architect - Associate",
-      issuer: "AWS",
-      icon: <Cloud className="h-5 w-5" />,
     },
     {
       name: "Microsoft Azure Fundamentals (AZ-900)",
