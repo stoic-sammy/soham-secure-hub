@@ -96,12 +96,12 @@ const Portfolio = () => {
 
   const achievements = [
     {
-      metric: "50+",
+      metric: "20+",
       label: "Security Assessments Completed",
       icon: <Shield className="h-6 w-6 text-accent" />
     },
     {
-      metric: "300+",
+      metric: "30+",
       label: "Vendors Evaluated",
       icon: <Users className="h-6 w-6 text-accent" />
     },
