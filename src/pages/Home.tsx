@@ -173,12 +173,12 @@ const Home = () => {
                   <h3 className="text-xl font-semibold text-primary">Current Role</h3>
                   <div className="space-y-4">
                     <div>
-                      <h4 className="font-medium text-foreground">Consultant at Deloitte</h4>
-                      <p className="text-sm text-muted-foreground">Jul 2023 – Feb 2025</p>
+                      <h4 className="font-medium text-foreground">Consultant (Freelancing)</h4>
+                      <p className="text-sm text-muted-foreground">Feb 2025 - Present</p>
                     </div>
                     <p className="text-muted-foreground text-sm leading-relaxed">
                       Leading IT audit engagements, conducting cloud security assessments, 
-                      and managing third-party risk assessments for clients in BFSI and IT sectors.
+                      and managing third-party risk assessments for clients in IT sectors.
                     </p>
                   </div>
                   
