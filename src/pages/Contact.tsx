@@ -63,13 +63,13 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6 text-accent" />,
       title: "Email",
-      detail: "soham.dhande@example.com",
+      detail: "sohamdhande69@gmail.com",
       description: "Best way to reach me for detailed inquiries"
     },
     {
       icon: <Phone className="h-6 w-6 text-accent" />,
       title: "Phone",
-      detail: "+91 XXXXX XXXXX",
+      detail: "(Refer Below Contact Form)",
       description: "Available for urgent consultations"
     },
     {
