@@ -45,7 +45,7 @@ const Home = () => {
             <div className="space-y-8">
               <div className="space-y-4">
                 <h1 className="text-4xl lg:text-6xl font-bold text-primary leading-tight">
-                  <span className="text-orange-500">Expert IT Audits</span> and{" "}
+                  <span className="text-accent">Expert IT Auditsand{" "}</span> 
                   <span className="text-accent">Cloud Security</span>
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
