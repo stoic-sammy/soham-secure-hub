@@ -39,7 +39,7 @@ const Portfolio = () => {
         "Streamlined vendor onboarding process by 60%",
         "Enhanced visibility into third-party security posture"
       ],
-      technologies: ["AWS Security Hub", "Azure Security Center", "ISO 27001", "NIST Framework"],
+      technologies: ["AWS Security Hub", "Azure Security Center", "ISO 27001"],
       type: "TPRM & Cloud Security"
     },
     {
@@ -64,7 +64,7 @@ const Portfolio = () => {
         "Zero security incidents during implementation",
         "Reduced time-to-market for new features by 50%"
       ],
-      technologies: ["Azure DevOps", "SIEM Tools", "Application Security Testing", "Project Management"],
+      technologies: ["Azure DevOps", "SIEM Tools", "Project Management"],
       type: "Project Management & Security"
     },
     {
@@ -89,7 +89,7 @@ const Portfolio = () => {
         "Established ongoing vendor monitoring for 300+ vendors",
         "Reduced vendor-related audit findings by 80%"
       ],
-      technologies: ["GRC Platforms", "Risk Assessment Tools", "Compliance Management", "NIST Framework"],
+      technologies: ["GRC Platforms", "Risk Assessment Tools", "Compliance Management", "Policy Generation", "Policy Implementation"],
       type: "Third-Party Risk Management"
     }
   ];
@@ -275,8 +275,8 @@ const Portfolio = () => {
                   <div className="w-16 h-16 bg-secondary/10 rounded-lg flex items-center justify-center mx-auto">
                     <Shield className="h-8 w-8 text-secondary" />
                   </div>
-                  <h3 className="font-semibold text-primary">NIST Framework</h3>
-                  <p className="text-sm text-muted-foreground">Cybersecurity Framework</p>
+                  <h3 className="font-semibold text-primary">Multi-Cloud Architecture</h3>
+                  <p className="text-sm text-muted-foreground">IDAM and Network Framework</p>
                 </div>
                 <div className="space-y-2">
                   <div className="w-16 h-16 bg-accent/10 rounded-lg flex items-center justify-center mx-auto">
