@@ -41,9 +41,9 @@ const Services = () => {
     {
       icon: <CheckSquare className="h-12 w-12 text-accent" />,
       title: "IT Audits & GRC",
-      description: "Thorough evaluation of IT controls against industry frameworks including NIST, ISO 27001, and CIS Benchmarks to ensure compliance and security.",
+      description: "Thorough evaluation of IT controls against industry frameworks including ISO 27001, and CIS Benchmarks to ensure compliance and security.",
       features: [
-        "NIST Cybersecurity Framework assessment",
+        "Cybersecurity Framework assessment",
         "ISO 27001:2022 compliance audit",
         "CIS Controls implementation review",
         "SOC 2 Type II preparation and audit",
@@ -111,7 +111,7 @@ const Services = () => {
     {
       icon: <Database className="h-8 w-8 text-secondary" />,
       title: "Data Privacy",
-      description: "GDPR, CCPA, and other data privacy regulation compliance."
+      description: "GDPR, CCPA, DPDPA and other data privacy regulation compliance."
     },
     {
       icon: <Lock className="h-8 w-8 text-secondary" />,
