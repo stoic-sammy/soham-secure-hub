@@ -18,7 +18,7 @@ const About = () => {
     {
       title: "Consultant (Freelancing)",
       company: "Independent",
-      period: "2023",
+      period: "2025",
       description: "Providing specialized IT audit and cloud security consulting services to various organizations.",
       current: true,
     },
