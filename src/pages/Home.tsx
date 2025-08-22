@@ -44,7 +44,7 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <div className="space-y-4">
-                <h1 className=""text-4xl lg:text-6xl font-bold text-accent">
+                <h1 className="text-accent">
                   Expert IT Audits and{" "}
                   <span className="text-accent">Cloud Security</span>
                 </h1>
@@ -173,12 +173,12 @@ const Home = () => {
                   <h3 className="text-xl font-semibold text-primary">Current Role</h3>
                   <div className="space-y-4">
                     <div>
-                      <h4 className="font-medium text-foreground">Consultant (Freelancing)</h4>
-                      <p className="text-sm text-muted-foreground">Feb 2025 - Present</p>
+                      <h4 className="font-medium text-foreground">Consultant at Deloitte</h4>
+                      <p className="text-sm text-muted-foreground">Jul 2023 – Feb 2025</p>
                     </div>
                     <p className="text-muted-foreground text-sm leading-relaxed">
                       Leading IT audit engagements, conducting cloud security assessments, 
-                      and managing third-party risk assessments for clients in IT sectors.
+                      and managing third-party risk assessments for clients in BFSI and IT sectors.
                     </p>
                   </div>
                   
