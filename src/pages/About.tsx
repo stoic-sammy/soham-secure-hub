@@ -20,20 +20,13 @@ const About = () => {
       company: "Independent",
       period: "2023",
       description: "Providing specialized IT audit and cloud security consulting services to various organizations.",
-      current: false,
+      current: true,
     },
     {
       title: "Consultant",
       company: "Deloitte",
       period: "Jul 2023 – Feb 2025",
       description: "Leading IT audit engagements, conducting cloud security assessments, and managing third-party risk assessments for clients in BFSI and IT sectors.",
-      current: true,
-    },
-//    {
-      title: "Consultant (Freelancing)",
-      company: "Independent",
-      period: "2023",
-      description: "Providing specialized IT audit and cloud security consulting services to various organizations.",
       current: false,
     },
     {
