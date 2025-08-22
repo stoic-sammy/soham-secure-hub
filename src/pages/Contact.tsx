@@ -69,7 +69,7 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6 text-accent" />,
       title: "Phone",
-      detail: "(Refer Below Contact Form)",
+      detail: "(Refer Below Direct Conversation)",
       description: "Available for urgent consultations"
     },
     {
