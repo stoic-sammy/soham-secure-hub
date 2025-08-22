@@ -14,7 +14,7 @@ const Home = () => {
     {
       icon: <CheckSquare className="h-8 w-8 text-accent" />,
       title: "IT Audits & GRC",
-      description: "Evaluating IT controls against frameworks like NIST, ISO 27001, and CIS Benchmarks.",
+      description: "Evaluating IT controls against frameworks like ISO 27001, and CIS Benchmarks.",
     },
     {
       icon: <Users className="h-8 w-8 text-accent" />,
@@ -142,7 +142,7 @@ const Home = () => {
               <p className="text-lg text-muted-foreground leading-relaxed">
                 With expertise spanning IT audits, cloud security, and GRC consulting, 
                 I help organizations strengthen their security posture and achieve compliance 
-                with industry standards like ISO 27001, NIST, and CIS Benchmarks.
+                with industry standards like ISO 27001, and CIS Benchmarks.
               </p>
               
               <div className="space-y-4">
@@ -173,8 +173,8 @@ const Home = () => {
                   <h3 className="text-xl font-semibold text-primary">Current Role</h3>
                   <div className="space-y-4">
                     <div>
-                      <h4 className="font-medium text-foreground">Consultant at Deloitte</h4>
-                      <p className="text-sm text-muted-foreground">Jul 2023 – Feb 2025</p>
+                      <h4 className="font-medium text-foreground">Consultant (Independent)</h4>
+                      <p className="text-sm text-muted-foreground">Feb 2025 - Present</p>
                     </div>
                     <p className="text-muted-foreground text-sm leading-relaxed">
                       Leading IT audit engagements, conducting cloud security assessments, 
