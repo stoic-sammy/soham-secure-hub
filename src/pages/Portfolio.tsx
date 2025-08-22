@@ -289,8 +289,8 @@ const Portfolio = () => {
                   <div className="w-16 h-16 bg-primary/10 rounded-lg flex items-center justify-center mx-auto">
                     <Award className="h-8 w-8 text-primary" />
                   </div>
-                  <h3 className="font-semibold text-primary">Cloud Security</h3>
-                  <p className="text-sm text-muted-foreground">Cloud Security Control</p>
+                  <h3 className="font-semibold text-primary">SOC 2</h3>
+                  <p className="text-sm text-muted-foreground">Service Organization Control</p>
                 </div>
               </div>
             </CardContent>

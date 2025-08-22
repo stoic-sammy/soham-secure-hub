@@ -44,7 +44,7 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <div className="space-y-4">
-                <h1 className=""text-4xl lg:text-6xl font-bold text-accent">
+                <h1 className="text-4xl lg:text-6xl font-bold text-primary leading-tight">
                   Expert IT Audits and{" "}
                   <span className="text-accent">Cloud Security</span>
                 </h1>
